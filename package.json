@@ -20,6 +20,6 @@
     "@types/node": "^15.9.0",
     "@types/node-fetch": "^2.5.10",
     "ansi-colors": "^4.1.1",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   }
 }
